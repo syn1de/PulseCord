@@ -49,6 +49,7 @@ PulseCord provides a suite of tools for managing media content on Discord channe
     - Enter your Discord token.
     - Follow the on-screen instructions to select the channel and directory containing media files.
     - Media files will be uploaded to the chosen Discord channel.
+    - To upload media, use the command `!pulse <channel_id> <directory_path>` in Discord.
 
 4. **Exit**:
     - To exit PulseCord, choose option 4 from the menu.
