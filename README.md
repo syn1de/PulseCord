@@ -4,10 +4,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-
 # 🚀 PulseCord: Uniting Communities with Vibrant Connections
 
 PulseCord provides a suite of tools for managing media content on Discord channels, fostering vibrant connections and communities. It enables you to collect links from Discord channels, download media from these links, and upload media to Discord channels.
+
+![PulseCord Preview](https://i.imgur.com/FCSp3Ip.png)
 
 ## 🛠️ Features
 
@@ -45,7 +46,7 @@ PulseCord provides a suite of tools for managing media content on Discord channe
 
 3. **Upload Media to Discord Channel**:
     - Run PulseCord and choose option 3 from the menu.
-    - Enter your Discord Bot token.
+    - Enter your Discord token.
     - Follow the on-screen instructions to select the channel and directory containing media files.
     - Media files will be uploaded to the chosen Discord channel.
 
